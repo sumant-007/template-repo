@@ -8,6 +8,8 @@ public class Demo {
 		System.out.println("Second Java program.......");
 		System.out.println("ATPL Pune");
 		System.out.println("Pune");
+		System.out.println("Pune");
+		System.out.println("Mum");
 	}
 
 }
